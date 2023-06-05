@@ -10,7 +10,7 @@
 <!--  - :octocat: &nbsp; [My Resume](https://drive.google.com/file/d/1N5c-6aifkQIdDY_aHiuAwyuURSbV9Ueu/view?usp=share_link) -->
  
  ## Programming Languages
-<img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/cpp.svg' width='30'/> <img src='https://github.com/Farhan-0/Farhan-0/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/dart.svg' width='33'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/c-original.png' width='30'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/cpp.svg' width='30'/> <img src='https://github.com/Farhan-0/Farhan-0/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/dart.svg' width='33'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/sql.svg' width='30'/> 
 ## Technologies I Use
 <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/android.svg' height='40'/><img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/git.svg' width='40'/> 
  
