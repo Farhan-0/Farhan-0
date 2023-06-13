@@ -5,15 +5,28 @@
 
  - 🤔 &nbsp; I'm a computer science student who is passionate about writing code, solving problems, and building software.
  - 🎓 &nbsp; Currently studying Computer Science Engineering at Narula Institute of Technology.
- - 📚 &nbsp;  I'm currently working on building Mobile Apps using Flutter and working up on polishing my skills in Data Structures and Algorithms.
- - 👯 &nbsp;  I'm currently looking for opportunities as I love to learn and contribute in any and every possible way. 
+ - 📚 &nbsp;  I'm currently working as a Freelancer to build robust mobile applications using Flutter.
+ - 👯 &nbsp;  I'm also looking for opportunities as I love to learn and contribute in any and every possible way. 
 <!--  - :octocat: &nbsp; [My Resume](https://drive.google.com/file/d/1N5c-6aifkQIdDY_aHiuAwyuURSbV9Ueu/view?usp=share_link) -->
  
  ## Programming Languages
-<img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/c-original.png' width='30'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/cpp.svg' width='30'/> <img src='https://github.com/Farhan-0/Farhan-0/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/dart.svg' width='33'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/sql.svg' width='30'/> 
-## Technologies I Use
-<img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/android.svg' height='40'/><img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/Farhan-0/Farhan-0/blob/main/images/git.svg' width='40'/> 
+ <div class="row">
+<img src = 'https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg' width='40'/>
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' width='40'/> 
+<img src = 'https://www.vectorlogo.zone/logos/java/java-vertical.svg' width='40'/> 
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' width='40'/> 
+<img src = 'https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg' width='80'/>
+
+ </div>
  
+## Technologies I Use
+<div class="row">
+<img src = 'https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg' height='40'/>
+ <img src = 'https://www.vectorlogo.zone/logos/android/android-tile.svg' width='40'/> 
+ <img src = 'https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' width='40'/> 
+ <img src = 'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' width='40'/> 
+ 
+</div>
 
 <!--
 **Farhan-0/Farhan-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
