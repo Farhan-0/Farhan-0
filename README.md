@@ -4,8 +4,8 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
  - 🤔 &nbsp; I'm a computer science student who is passionate about writing code, solving problems, and building software.
- - 🎓 &nbsp; Currently studying Computer Science Engineering at Narula Institute of Technology.
  - 📚 &nbsp;  I'm currently working as a Freelancer to build robust mobile applications using Flutter.
+ - 🎓 &nbsp; Currently studying Computer Science Engineering at Narula Institute of Technology.
  - 👯 &nbsp;  I'm also looking for opportunities as I love to learn and contribute in any and every possible way. 
 <!--  - :octocat: &nbsp; [My Resume](https://drive.google.com/file/d/1N5c-6aifkQIdDY_aHiuAwyuURSbV9Ueu/view?usp=share_link) -->
  
